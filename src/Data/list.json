@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 2,
+        "name": "Gaming Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 90,
+        "category": "Gaming",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 3,
+        "name": "Comedy Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 20,
+        "category": "Comedy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "The Blue Umbrella",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 5,
+        "name": "Comedy Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 120,
+        "category": "Comedy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 80,
+        "category": "Story",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 90,
+        "category": "Story",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 9,
+        "name": "Story Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 11,
+        "name": "Story Book",
+        "title": "Winnie-The-Pooh (General Press)",
+        "price": 80,
+        "category": "Story",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 12,
+        "name": "Story Book",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "price": 50,
+        "category": "Story",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    },
+    {
+        "id": 13,
+        "name": "Comedy Book",
+        "title": "The Divine Comedy - The Vision of Paradise, Purgatory and Hell -  (English, Paperback, Alighieri Dante)",
+        "price": 60,
+        "category": "Comedy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnVp3abpKHU6VI-9TV3Rova8rKtVHp-b0Sg&s"
+    }
+]
